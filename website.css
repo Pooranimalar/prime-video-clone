@@ -1,0 +1,18 @@
+
+ul li{
+    margin-left: 10vh;
+    display: inline-block;
+    margin-top: 5vh;
+    font-family: cursive;
+    float: left;
+   
+    
+}
+ .home select{
+    margin-left: 10vh;
+    margin-top: 6vh;
+}
+.store select{
+    margin-left: 35vh;
+    margin-top: -10vh;
+}

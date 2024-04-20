@@ -1,0 +1,70 @@
+body{
+   display: flex;
+   justify-content: center; 
+ 
+   
+}
+.image img{
+   margin-left: 60vh;
+  
+}
+
+
+.container{
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 2px;
+    border: 2px solid black;
+    
+  margin-left: -45vh;
+    margin-top: 30vh;
+}
+
+.signin{
+    margin-bottom: 2vh;
+    font-size: 30px;
+}
+.email{
+    margin-bottom: 1vh;
+}
+.inputdata input[type=text]{
+ padding: 5px;
+ width: 75%;
+ margin-bottom: 2vh;
+}
+.btn button[type=submit]{
+    padding: 5px;
+    width: 80%;
+    background-color: yellow;
+    
+}
+.bttn button[type=submit]{
+   
+    padding: 5px;
+    width: 150%;
+    background-color: white;
+    margin-top: 80vh;
+    
+}
+.use{
+    margin-top: -2vh;
+    margin-bottom: 5vh;
+}
+ul li{
+  
+    display: inline-block;
+    margin-top: 85vh;
+  margin-left: -40vh;
+    
+}
+.new p{
+    margin-top: 75vh;
+   align-items: center;
+  margin-left: -40vh;
+}
+.add p{
+    margin-top: 93vh;
+    margin-left: -92vh;
+}
