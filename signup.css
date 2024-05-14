@@ -1,70 +1,71 @@
-body{
-   display: flex;
-   justify-content: center; 
- 
-   
-}
-.image img{
-   margin-left: 60vh;
-  
-}
 
-
+.image{
+    margin-left: 68vh;
+}
 .container{
-    justify-content: center;
-    align-items: center;
-    height: 50vh;
-    width: 50vh;
-    border-radius: 2px;
-    border: 2px solid black;
-    
-  margin-left: -45vh;
-    margin-top: 30vh;
+    border: 1px solid black;
+    border-radius: 1px;
+    height: 45vh;
+    width: 48vh;
+    margin-left: 70vh; 
 }
-
 .signin{
     margin-bottom: 2vh;
     font-size: 30px;
+    margin-left: 2vh;
+    margin-top: 2vh;
 }
 .email{
     margin-bottom: 1vh;
+    margin-left: 2vh;
 }
 .inputdata input[type=text]{
  padding: 5px;
- width: 75%;
+ width: 85%;
  margin-bottom: 2vh;
+ margin-left: 2vh;
 }
 .btn button[type=submit]{
     padding: 5px;
-    width: 80%;
+    width: 90%;
     background-color: yellow;
+    margin-left: 2vh;
     
+}
+.btn button[type=submit]:hover{
+background-color: rgb(132, 132, 52);
+}
+.help a{
+    margin-left: 2vh;
+  margin-top: 5vh;
+}
+.para p{
+    margin-left: 2vh;
+    margin-bottom:0vh;
+}
+.use a{
+   
+    margin-bottom: 5vh;
+     margin-left: 2vh;
+} 
+.new p{
+    margin-left: 85vh;
+    margin-bottom: 2vh;
 }
 .bttn button[type=submit]{
-   
-    padding: 5px;
-    width: 150%;
     background-color: white;
-    margin-top: 80vh;
+    margin-left: 70vh;
+    width: 25%;
+    height: 5vh;
     
 }
-.use{
-    margin-top: -2vh;
-    margin-bottom: 5vh;
-}
-ul li{
-  
+ .terms ul,li{
     display: inline-block;
-    margin-top: 85vh;
-  margin-left: -40vh;
+    margin-left: 26vh;
+    margin-right: -15vh;
+    padding-left: 2vh;
     
-}
-.new p{
-    margin-top: 75vh;
-   align-items: center;
-  margin-left: -40vh;
 }
 .add p{
-    margin-top: 93vh;
-    margin-left: -92vh;
+    margin-left: 70vh;
 }

@@ -1,0 +1,25 @@
+.container-fluid{
+    background-color:beige;
+}
+ul li{
+    display: inline-block;
+    margin-left: 10vh;
+}
+ .card1{
+    border: 1px solid black;
+    margin-top: 10vh;
+}
+.card2{
+    border: 1px solid black;
+    margin-top: 10vh;
+}
+.card2 img{
+height: 27vh;
+}
+.card3{
+    border: 1px solid black;
+    margin-top: 10vh;
+}
+.btn{
+   margin-left: 20vh;
+}
